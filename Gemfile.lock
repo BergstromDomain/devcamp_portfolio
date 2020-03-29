@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/BergstromDomain/bergstromdomain_view_tool
+  revision: 84514cc37dc55ae8628e8464ee4e85b5dff4a2e4
+  specs:
+    bergstromdomain_view_tool (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -234,6 +240,7 @@ PLATFORMS
   x86-mswin32
 
 DEPENDENCIES
+  bergstromdomain_view_tool!
   bootsnap (>= 1.4.2)
   bootstrap (~> 4.4, >= 4.4.1)
   byebug
